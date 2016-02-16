@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    }
+]
