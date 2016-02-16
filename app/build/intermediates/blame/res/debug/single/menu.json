@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_client_connections_contextual.xml",
+        "source": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\src\\main\\res\\menu\\activity_client_connections_contextual.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_connection_details_disconnected.xml",
+        "source": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\src\\main\\res\\menu\\activity_connection_details_disconnected.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_subscribe_disconnected.xml",
+        "source": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\src\\main\\res\\menu\\activity_subscribe_disconnected.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_subscribe.xml",
+        "source": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\src\\main\\res\\menu\\activity_subscribe.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_publish_disconnected.xml",
+        "source": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\src\\main\\res\\menu\\activity_publish_disconnected.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_publish.xml",
+        "source": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\src\\main\\res\\menu\\activity_publish.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_new_connection.xml",
+        "source": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\src\\main\\res\\menu\\activity_new_connection.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_connections.xml",
+        "source": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\src\\main\\res\\menu\\activity_connections.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_connections_logging.xml",
+        "source": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\src\\main\\res\\menu\\activity_connections_logging.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_connection_details.xml",
+        "source": "C:\\Users\\ahashim\\AndroidStudioProjects\\pahoAndroid\\org.eclipse.paho.android.service\\org.eclipse.paho.android.service.sample.test1\\app\\src\\main\\res\\menu\\activity_connection_details.xml"
+    }
+]
