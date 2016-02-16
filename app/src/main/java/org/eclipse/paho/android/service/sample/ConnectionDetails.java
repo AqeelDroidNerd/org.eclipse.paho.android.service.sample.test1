@@ -25,7 +25,10 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.view.Menu;
+<<<<<<< HEAD
 import android.view.View;
+=======
+>>>>>>> origin/master
 import android.widget.Toast;
 
 /**
@@ -86,7 +89,10 @@ public class ConnectionDetails extends FragmentActivity implements
     clientHandle = getIntent().getStringExtra("handle");
 
     setContentView(R.layout.activity_connection_details);
+<<<<<<< HEAD
     
+=======
+>>>>>>> origin/master
     // Create the adapter that will return a fragment for each of the pages
     sectionsPagerAdapter = new SectionsPagerAdapter(
         getSupportFragmentManager());
